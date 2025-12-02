@@ -355,8 +355,15 @@ Para probar el sistema, usar las siguientes credenciales:
 
 ## Licencia
 
-Este proyecto es para fines educativos.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Autor
+
+**Adrián Laredo Reyes** - Full Stack
+
+
 
 ---
 
-**Biblioteca Lumina** - Sistema de Gestión Bibliotecaria
+**Institución Educativa - Biblioteca** - Sistema de Gestión Bibliotecaria
+
